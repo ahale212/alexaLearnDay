@@ -5,8 +5,7 @@
 +++
 
 ### Disclaimer
-I am not an expert on this.
-<img src="./assets/notAnExpert.jpg" width="150" height="150"/>
+<img src="./assets/notAnExpert.jpg" width="350" height="350"/>
 
 +++
 
