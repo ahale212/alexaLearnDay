@@ -1,0 +1,3 @@
+# alexaLearnDay
+
+Only contains the presentation, the knowledge is made up along the way...
