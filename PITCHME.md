@@ -14,11 +14,11 @@
 +++
 
 ### Simple Flow
-<img src="./assets/simpleFlow.png" width="450" height="350>
+<img src="./assets/simpleFlow.png" width="450" height="350">
 +++
 
 ### Detailed Flow
-<img src="./assets/detailedFlow.png" width="450" height="350>
+<img src="./assets/detailedFlow.png" width="450" height="350">
 +++
 
 ### Resources
