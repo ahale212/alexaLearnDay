@@ -4,11 +4,6 @@
 
 +++
 
-### Disclaimer
-<img src="./assets/notAnExpert.jpg" width="350" height="350"/>
-
-+++
-
 ### What is AWS Lambda
 "AWS Lambda is an event-driven, serverless computing platform. It runs code in response to events and automatically manages the computing resources required by the code."
 +++
@@ -19,9 +14,4 @@
 
 ### Detailed Flow
 <img src="./assets/detailedFlow.jpg" width="750" height="450">
-+++
-
-### Resources
-AWS - https://aws.amazon.com/console
-Amazon Developer- https://developer.amazon.com/alexa
 +++
