@@ -8,10 +8,10 @@
 "AWS Lambda is an event-driven, serverless computing platform. It runs code in response to events and automatically manages the computing resources required by the code."
 +++
 
-### Simple Flow
+### Flow Diagram
 <img src="./assets/simpleFlow.jpg" width="750" height="450">
 +++
 
-### Detailed Flow
+### Flow Diagram
 <img src="./assets/detailedFlow.jpg" width="750" height="450">
 +++
